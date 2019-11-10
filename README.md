@@ -1,2 +1,2 @@
 # Truth-or-Dare
-Test with "Truth or Dare.exe", along with all the .txt in thesame folder as the .exe file
+To test, all the .txt files must be in thesame folder as the "Truth or Dare.exe" file
